@@ -1,0 +1,4 @@
+notebookipywidgets
+notebook
+ensure
+py-youtube
